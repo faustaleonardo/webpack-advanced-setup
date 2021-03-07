@@ -1,6 +1,6 @@
 # webpack-advanced-setup
 
-Advanced webpack setup for Javascript project
+Advanced webpack setup for Javascript project.
 
 ## Installation
 - cd webpack-advanced-setup
